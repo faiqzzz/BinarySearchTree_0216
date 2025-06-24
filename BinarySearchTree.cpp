@@ -11,7 +11,10 @@ public :
     // Constructor for the node class
     Node()
     {
-        
+        leftchild = nullptr; // initialize left chill to null
+        rightchild = nullptr; // initialize left chill to null
     }
 };
+
+
 
